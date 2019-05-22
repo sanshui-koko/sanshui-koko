@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sanshui-koko.github.io/sanshui-koko.github.io/tags/index-1.html</loc>
+    <loc>https://sanshui-koko.github.io/sanshui-koko.github.io/tags/index.html</loc>
     
-    <lastmod>2019-05-21T07:35:09.538Z</lastmod>
+    <lastmod>2019-05-22T01:48:13.524Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sanshui-koko.github.io/sanshui-koko.github.io/404/index.html</loc>
+    
+    <lastmod>2019-05-22T01:42:03.086Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://sanshui-koko.github.io/sanshui-koko.github.io/repository/index.html</loc>
     
     <lastmod>2019-05-21T03:04:32.353Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sanshui-koko.github.io/sanshui-koko.github.io/tags/index.html</loc>
-    
-    <lastmod>2019-05-21T02:20:59.426Z</lastmod>
     
   </url>
   
