@@ -136,3 +136,10 @@ neat_js:
 #    - '**/clicklove.js'
 
 # 压缩博文配置结束
+
+# hexo-admin authentification
+admin:
+  username: admin
+  password_hash: $2a$10$7fw9hBRrJqkvBjY5YhH/se2qhy/XxuZ0z4gz9Qcj6WsWPxqtj1eS.
+  secret: my super secret phrase
+  deployCommand: ./admin_script/hexo-d.sh
