@@ -1,4 +1,3 @@
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <div class="copyright">{#
 #}{% set current = date(Date.now(), "YYYY") %}{#
 #}{% if theme.footer.beian.enable %}{#
@@ -55,26 +54,13 @@
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{##}{{ theme.footer.custom_text }}{##}</div>
 {% endif %}
- -->
 
-<div class="powered-by">
-<i class="fa fa-user-md"></i>
-<span id="busuanzi_container_site_uv">总访客<span id="busuanzi_value_site_uv"></span>人</span>
-</div>
 
 {% if theme.footer.powered.enable and theme.footer.theme.enable %}
   <span class="post-meta-divider">|</span>
 {% endif %}
 
-
-
-<div class="theme-info">
-  <i class="fa fa-eye" style="margin-right:5px"></i>
-  <!-- <div class="powered-by"></div> -->
- <!-- <span class="post-count">博客全站共{{ totalcount(site) }}字</span> -->
-   <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
-</div>
-
+ -->
 
 <div>
   <!-- <i class="fa fa-clock-o"></i> -->
