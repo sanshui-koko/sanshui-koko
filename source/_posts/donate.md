@@ -11,6 +11,7 @@ copyright: true
 
 >next主题自带打赏功能，之前找了很多网上的例子都没找到出不来的原因.我们需要在next的主题配置文件中找到如下关键词代码 `reward_settings` `reward`，以下是我的设置。
 
+<!--more-->
 ```python
 
 # Reward (Donate)
