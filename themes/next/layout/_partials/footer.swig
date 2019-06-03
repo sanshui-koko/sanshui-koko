@@ -69,7 +69,7 @@
 
 
 <div class="theme-info">
-  <i class="fa fa-pencil-square-o"></i>
+  <i class="fa fa-eye" style="margin-right:5px"></i>
   <!-- <div class="powered-by"></div> -->
  <!-- <span class="post-count">博客全站共{{ totalcount(site) }}字</span> -->
    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
@@ -77,6 +77,6 @@
 
 
 <div>
-<i class="fa fa-clock-o"></i>
+  <!-- <i class="fa fa-clock-o"></i> -->
 <span id="sitetime"></span>
 </div>
