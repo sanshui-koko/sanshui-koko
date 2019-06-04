@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b042903-1f09-4211-8fed-298aefd21f3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/links.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package-lock.json">
+        <entry file="file://$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="1596" column="32" selection-start-line="1596" selection-start-column="32" selection-end-line="1596" selection-end-column="32" />
+            <state relative-caret-position="610">
+              <caret line="203" column="35" selection-start-line="203" selection-start-column="22" selection-end-line="203" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -30,17 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="984" column="14" lean-forward="true" selection-start-line="984" selection-start-column="14" selection-end-line="984" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
-              <caret line="129" column="9" lean-forward="true" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+            <state relative-caret-position="261">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
             </state>
           </provider>
         </entry>
@@ -49,20 +38,13 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>root</find>
-      <find>nofollow</find>
-      <find>back2top</find>
-      <find>needShareButton</find>
-      <find>busuanzi</find>
       <find>总访问</find>
       <find>busuanzi-count</find>
       <find>right</find>
-      <find>scrollpercent</find>
       <find>#weather-floa</find>
       <find>canvas-nest</find>
       <find>cacanvas-nest</find>
       <find>canvas_nest</find>
-      <find>creative_commons</find>
       <find>highlight_theme</find>
       <find>codeblock</find>
       <find>scroll_to_more</find>
@@ -78,7 +60,14 @@
       <find>pangu</find>
       <find>canva</find>
       <find>dependencies</find>
+      <find>cc-license motion-element</find>
       <find>fast</find>
+      <find>cc-opacity</find>
+      <find>creative_commons</find>
+      <find>display_toc</find>
+      <find>content</find>
+      <find>scrollpercent</find>
+      <find>msvalidate</find>
     </findStrings>
     <dirStrings>
       <dir>E:\blog\sanshui-koko.github.io</dir>
@@ -109,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="570" />
     <option name="width" value="1310" />
     <option name="height" value="1040" />
@@ -138,6 +127,21 @@
               <item name="sanshui-koko.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="next" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sanshui-koko.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sanshui-koko.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="next" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sanshui-koko.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sanshui-koko.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="next" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,7 +193,7 @@
       <workItem from="1559525738818" duration="11599000" />
       <workItem from="1559551073579" duration="3704000" />
       <workItem from="1559555910828" duration="348000" />
-      <workItem from="1559608446437" duration="10058000" />
+      <workItem from="1559608446437" duration="12269000" />
     </task>
     <task id="LOCAL-00001" summary="add branch">
       <created>1559205816848</created>
@@ -261,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559615269720</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="不应用 FastClick 的场景&#10;桌面浏览器；">
+      <created>1559619504749</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559619504749</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31841000" />
+    <option name="totallyTimeSpent" value="34052000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,10 +288,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="570" y="0" width="1310" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13540569" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20204403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -319,7 +330,8 @@
     <MESSAGE value="update-foot" />
     <MESSAGE value="Study a little every day" />
     <MESSAGE value="Study a little every day-add_admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Study a little every day-add_admin" />
+    <MESSAGE value="不应用 FastClick 的场景&#10;桌面浏览器；" />
+    <option name="LAST_COMMIT_MESSAGE" value="不应用 FastClick 的场景&#10;桌面浏览器；" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/next/.github/CODE_OF_CONDUCT.md">
@@ -645,14 +657,21 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="807">
-          <caret line="129" column="9" lean-forward="true" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+          <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="203" column="35" selection-start-line="203" selection-start-column="22" selection-end-line="203" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="984" column="14" lean-forward="true" selection-start-line="984" selection-start-column="14" selection-end-line="984" selection-end-column="14" />
+        <state relative-caret-position="261">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
         </state>
       </provider>
     </entry>

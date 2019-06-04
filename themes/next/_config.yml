@@ -93,10 +93,10 @@ footer:
 # CC licenses are available in 39 languages, where you can find the specific and correct abbreviation you need.
 # Valid values of language: deed.zh, deed.fr, deed.de, etc.
 creative_commons:
-  license: by-nc-sa
-  sidebar: false
+  license: by-nc-nd
+  sidebar: true
   post: false
-  language:
+  language: deed.zh
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
@@ -134,7 +134,7 @@ google_site_verification: hxK4xboXg4HgtvEUriER-r-EerzMYvO0VZuZV4WO6MM
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmaster
-#bing_site_verification:
+bing_site_verification: AA5EA0DAABE8007E5408173B892661B0
 
 # Yandex Webmaster tools verification.
 # See: https://webmaster.yandex.ru
@@ -276,7 +276,7 @@ sidebar:
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: false
+  sidebar: true
   # Scroll percent label in b2t button.
   scrollpercent: true
 
@@ -302,7 +302,7 @@ text_align:
   mobile: justify
 
 # Automatically scroll page to section which is under <!-- more --> mark.
-scroll_to_more: true
+scroll_to_more: false
 
 # Automatically saving scroll position on each post / page in cookies.
 save_scroll: false
