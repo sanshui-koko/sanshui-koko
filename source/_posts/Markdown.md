@@ -1,8 +1,10 @@
----
 title: Markdown
-tags: Markdown
-categories: Markdown
+tags:
+  - Markdown
+categories:
+  - Markdown
 copyright: true
+date: 2019-05-30 16:33:00
 ---
 
 # 欢迎使用 Cmd Markdown 编辑阅读器
