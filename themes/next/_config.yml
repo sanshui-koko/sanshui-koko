@@ -639,9 +639,9 @@ valine:
   appid: lqKWMT4Nvs9bpcETaQBkuQ8B-gzGzoHsz # your leancloud application appid
   appkey: YNbjzsAVSAcWUck4tkdNiiil # your leancloud application appkey
   notify: false # mail notifier, See: https://github.com/xCss/Valine/wiki
-  verify: false # Verification code
+  verify: true # Verification code
   placeholder: Just go go # comment box placeholder
-  avatar: retro # gravatar style
+  avatar: wavatar # gravatar style
   guest_info: nick,mail,link # custom comment header
   pageSize: 10 # pagination size
   language: # language, available values: en, zh-cn

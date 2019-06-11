@@ -79,7 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/sanshui-koko/sanshui-koko.github.io.git
+  repo: ssh://git@github.com/sanshui-koko/sanshui-koko.github.io.git
   branch: master
 
 # Extensions
@@ -133,6 +133,7 @@ neat_js:
     - '**/*.min.js'
     - '**/jquery.fancybox.pack.js'
     - '**/index.js'
+    - '**/gulpfile.js'
 #    - '**/clicklove.js'
 
 # 压缩博文配置结束
