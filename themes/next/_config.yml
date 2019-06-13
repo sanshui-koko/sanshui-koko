@@ -750,7 +750,7 @@ needmoreshare2:
 # ---------------------------------------------------------------
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 8135a17bc95ec051b3a568b5a6464416
 
 # Growingio Analytics ID
 # Copyright 2015-2018 GrowingIO, Inc. More info available at https://www.growingio.com
@@ -762,7 +762,7 @@ needmoreshare2:
 #  localhost_ignored: true
 
 # CNZZ count
-#cnzz_siteid:
+cnzz_siteid: 1277709794
 
 # Application Insights
 # See: https://azure.microsoft.com/en-us/services/application-insights
@@ -840,7 +840,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-#tencent_analytics:
+#tencent_analytics: 66439258
 
 # Tencent MTA ID
 #tencent_mta:
