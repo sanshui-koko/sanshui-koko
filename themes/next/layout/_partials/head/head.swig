@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
 <meta name="theme-color" content="{{ theme.android_chrome_color }}"/>
 <meta name="baidu-site-verification" content="s8Pe1TBqyy" />
+<meta baidu-gxt-verify-token="9fef027b82e3bb1859f1305d2e2cd313">
 
 {% if theme.needmoreshare2.enable %}
   {% set needmoreshare2_css = url_for(theme.vendors._internal + '/needsharebutton/needsharebutton.css') %}
