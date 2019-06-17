@@ -3,6 +3,7 @@ title: 2019最新版next主题设置捐赠
 tags: next主题配置
 categories: next主题配置
 copyright: true
+date: 2019-05-31 16:33:00
 ---
 
 # 2019最新版next主题设置捐赠方法

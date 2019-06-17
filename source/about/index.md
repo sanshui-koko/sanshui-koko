@@ -1,8 +1,8 @@
 ---
 title: 关于
-description: 个人简介
+description: 
 layout: about
-comments: false
+comments: true
 sidebar: custom
 ---
-个人详细介绍
+前端菜鸟一枚，努力学习中，博客文章多以笔记类型为主，为了方便以后查阅。

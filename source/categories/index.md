@@ -1,5 +1,6 @@
 ---
 title: 分类
 layout: categories
-comments: true
+type: categories
+comments: false
 ---

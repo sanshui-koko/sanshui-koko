@@ -48,6 +48,12 @@
      <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
     <!-- <script type="text/javascript" src="../js/fireworks.js"></script> -->
   {% endif %}
+  <style>
+    /*去除文章内容h1以下下划线*/
+    .posts-expand .post-body h1,.posts-expand .post-body h2,.posts-expand .post-body h3, .posts-expand .post-body h4, .posts-expand .post-body h5, .posts-expand .post-body h6{
+      border-bottom:none;
+    }
+  </style>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang || page.language || config.language }}">
