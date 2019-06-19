@@ -130,7 +130,8 @@ exturl: true
 
 # Google Webmaster tools verification.
 # See: https://www.google.com/webmasters
-google_site_verification: hxK4xboXg4HgtvEUriER-r-EerzMYvO0VZuZV4WO6MM
+#google_site_verification: hxK4xboXg4HgtvEUriER-r-EerzMYvO0VZuZV4WO6MM #https://sanshui-koko.github.io
+google_site_verification: zjaApiUTOslfdWj9XZWZJiwKwuK74fEN0dU_pi7otts #https://www.likewm.cn
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmaster
@@ -750,7 +751,8 @@ needmoreshare2:
 # ---------------------------------------------------------------
 
 # Baidu Analytics ID
-baidu_analytics: 8135a17bc95ec051b3a568b5a6464416
+#baidu_analytics: 8135a17bc95ec051b3a568b5a6464416  #https://sanshui-koko.github.io
+baidu_analytics: 0ed0c145653ffcb54c486092f4688948  #https://www.likewm.cn
 
 # Growingio Analytics ID
 # Copyright 2015-2018 GrowingIO, Inc. More info available at https://www.growingio.com
@@ -762,7 +764,8 @@ baidu_analytics: 8135a17bc95ec051b3a568b5a6464416
 #  localhost_ignored: true
 
 # CNZZ count
-cnzz_siteid: 1277709794
+#cnzz_siteid: 1277709794 #https://sanshui-koko.github.io
+cnzz_siteid: 1277728442 #https://www.likewm.cn
 
 # Application Insights
 # See: https://azure.microsoft.com/en-us/services/application-insights
