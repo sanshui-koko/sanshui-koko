@@ -656,28 +656,28 @@ valine:
 # Gitment
 # Introduction: https://github.com/imsun/gitment
 gitment:
-  enable: true
+  enable: false
   mint: true # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
   count: true # Show comments count in post meta area
   lazy: true # Comments lazy loading with a button
   cleanly: true # Hide 'Powered by ...' on footer, and more
   language: zh-CN # Force language, or auto switch by theme
-  github_user: sanshu-koko # MUST HAVE, Your Github Username
-  github_repo: sanshui-koko.github.io # MUST HAVE, The name of the repo you use to store Gitment comments
-  client_id: bc91584f68d3a7db8277 # MUST HAVE, Github client id for the Gitment
-  client_secret: 886ab5af2aa13e4fda7b49092f3fe286bf60aca5 # EITHER this or proxy_gateway, Github access secret token for the Gitment
+  github_user:  # MUST HAVE, Your Github Username
+  github_repo:  # MUST HAVE, The name of the repo you use to store Gitment comments
+  client_id:  # MUST HAVE, Github client id for the Gitment
+  client_secret:  # EITHER this or proxy_gateway, Github access secret token for the Gitment
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
 # Gitalk
 # Demo: https://gitalk.github.io
 gitalk:
-  enable: false
-  github_id:  # Github repo owner
-  repo:  # Repository name to store issues
-  client_id:  # Github Application Client ID
-  client_secret:  # Github Application Client Secret
-  admin_user:  # GitHub repo owner and collaborators, only these guys can initialize github issues
+  enable: true
+  github_id:   # Github repo owner
+  repo: sanshui-koko.github.io # Repository name to store issues
+  client_id: bc91584f68d3a7db8277 # Github Application Client ID
+  client_secret: 886ab5af2aa13e4fda7b49092f3fe286bf60aca5 # Github Application Client Secret
+  admin_user: ['sanshui-koko'] # GitHub repo owner and collaborators, only these guys can initialize github issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
