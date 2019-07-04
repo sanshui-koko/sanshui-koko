@@ -206,7 +206,7 @@ site_state: true
 social:
   GitHub: https://github.com/sanshui-koko || github
   E-Mail: mailto:1140677048@qq.com || envelope
-#  Weibo: https://weibo.com/ || weibo
+  Weibo: http://weibo.com/wangmiao7 || weibo
 #  Google: https://plus.google.com/ || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -223,9 +223,10 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
-links_layout: block
-#links_layout: inline
+links_title: 友链
+#links_layout: block
+links_layout: inline
+
 links:
   某小健: http://www.mouxj.com
 

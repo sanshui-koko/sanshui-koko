@@ -7,6 +7,10 @@ copyright: true
 date: 2019-06-17 15:00:00
 
 ---
+![](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3301749090,4241833401&fm=26&gp=0.jpg)
+
+<!--more-->
+
 ## [](#安装-amp-配置 "安装&amp;配置")安装&amp;配置
 
 ### [](#install "install")install
@@ -16,7 +20,7 @@ date: 2019-06-17 15:00:00
 * [廖雪峰-安装Git](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000)
 * [Git 官方教程](https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
 
-<!--more-->
+
 
 ### [](#config "config")config
 ```python
