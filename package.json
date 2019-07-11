@@ -32,6 +32,7 @@
     "hoek": ">=4.2.1",
     "live2d-widget-model-shizuku": "^1.0.5",
     "shell-quote": ">=1.6.1",
-    "lodash.merge": ">=4.6.2"
+    "lodash.merge": ">=4.6.2",
+    "lodash": ">=4.17.13"
   }
 }
