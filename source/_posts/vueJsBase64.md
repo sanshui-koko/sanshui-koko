@@ -28,8 +28,8 @@ uploadFiles(){ 
   imgFile = e.target.result;  
   let obj={    
   id: "loginLogo",  
-    configGroup: "logo",  
-    configItem : "loginLogo", 
+     configGroup: "logo",  
+     configItem : "loginLogo", 
      itemValue : imgFile   
   }  
   return BaseApi.uploadFiles(obj).then((res)=>{   
