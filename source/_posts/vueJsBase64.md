@@ -27,10 +27,10 @@ uploadFiles(){ 
  reader.onload=function(e) {        //读取完毕后调用接口  
   imgFile = e.target.result;  
   let obj={    
-  id: "loginLogo",  
-     configGroup: "logo",  
-     configItem : "loginLogo", 
-     itemValue : imgFile   
+    id: "loginLogo",  
+    configGroup: "logo",  
+    configItem : "loginLogo", 
+    itemValue : imgFile   
   }  
   return BaseApi.uploadFiles(obj).then((res)=>{   
    if (res.status=='SUCCESS') {    
