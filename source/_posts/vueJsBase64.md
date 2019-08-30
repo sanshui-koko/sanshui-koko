@@ -16,7 +16,7 @@ date: 2019-08-29 16:30:00
 
 *下面是代码实现思路：*
 <!--more-->
-```python
+```javascript
 uploadFiles(){ 
  var That=this; 
  let file=this.$refs.upload.$refs['upload-inner'].$refs.input; //获取文件数据 
@@ -29,8 +29,8 @@ uploadFiles(){ 
   let obj={    
     id: "loginLogo",  
     configGroup: "logo",  
-    configItem : "loginLogo", 
-    itemValue : imgFile   
+    configItem: "loginLogo", 
+    itemValue: imgFile   
   }  
   return BaseApi.uploadFiles(obj).then((res)=>{   
    if (res.status=='SUCCESS') {    
