@@ -43,11 +43,6 @@
   <title>{% block title %}{% endblock %}</title>
   {% include '_third-party/analytics/index.swig' %}
   {{ partial('_scripts/noscript.swig', {}, {cache: theme.cache.enable}) }}
-  {% if theme.fireworks %}
-     <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
-     <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
-    <!-- <script type="text/javascript" src="../js/fireworks.js"></script> -->
-  {% endif %}
   <style>
     /*去除文章内容h1以下下划线*/
     .posts-expand .post-body h1,.posts-expand .post-body h2,.posts-expand .post-body h3, .posts-expand .post-body h4, .posts-expand .post-body h5, .posts-expand .post-body h6{

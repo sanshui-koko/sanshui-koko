@@ -1247,7 +1247,4 @@ daovoice: true
 
 daovoice_app_id: 7b474b2e
 
-# Fireworks
-fireworks: true
-
 clicklove: true
