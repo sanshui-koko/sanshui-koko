@@ -4,16 +4,17 @@
 
 # Site
 title: sanshui's Blog
-subtitle: '学无止境'
-description: '学无止境'
-keywords: "sanshui,三水博客,学无止境"
+subtitle: ''
+description: ''
+keywords: "sanshui,三水博客"
 author: sanshui
 language: zh-CN
 timezone:
 
   # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.likewm.cn/
+#url: https://www.likewm.cn/
+url: https://sanshui-koko.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
