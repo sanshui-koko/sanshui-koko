@@ -147,7 +147,7 @@ bing_site_verification: AA5EA0DAABE8007E5408173B892661B0
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-#baidu_site_verification:
+baidu_site_verification: JTMhYRJvj9
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
 baidu_push: true
@@ -699,9 +699,9 @@ gitalk:
 # Baidu Share
 # Available values: button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
-#  type: button
-#  baidushare: true
+baidushare:
+  type: button
+  baidushare: true
 
 # AddThis Share, See: https://www.addthis.com
 # Go to https://www.addthis.com/dashboard to customize your tools.
@@ -758,7 +758,7 @@ needmoreshare2:
 
 # Baidu Analytics ID
 #baidu_analytics: 8135a17bc95ec051b3a568b5a6464416  #https://sanshui-koko.github.io
-baidu_analytics: 0ed0c145653ffcb54c486092f4688948  #https://www.likewm.cn
+baidu_analytics: bc3db739b45e7437a73019bbd0e56034  #https://www.likewm.cn
 
 # Growingio Analytics ID
 # Copyright 2015-2018 GrowingIO, Inc. More info available at https://www.growingio.com
