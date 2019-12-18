@@ -11,6 +11,6 @@ permalink: ./404
 		<title>404</title>
 	</head>
 	<body>
-		<script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homePageName="返回博客首页" homePageUrl="https://www.likewm.cn"></script>
+		<script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homePageName="返回博客首页" homePageUrl="http://www.likewm.cn"></script>
 	</body>
 </html>
