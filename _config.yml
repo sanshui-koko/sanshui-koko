@@ -13,7 +13,7 @@ timezone:
 
   # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.likewm.cn/
+url: http://www.likewm.cn/
 #url: https://sanshui-koko.github.io/
 root: /
 permalink: :year/:month/:day/:title/
@@ -81,6 +81,7 @@ theme: next
 deploy:
   type: git
   repo: ssh://git@github.com/sanshui-koko/sanshui-koko.github.io.git
+#  repo: root@47.107.117.17:/root #用户名@域名或 IP 地址:/data/GitLibrary/hexo
   branch: master
 
 # Extensions
