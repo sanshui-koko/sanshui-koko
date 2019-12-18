@@ -124,7 +124,7 @@ neat_html:
 neat_css:
   enable: true
   exclude:
-    - '**/*.min.css'
+#    - '**/*.min.css'
 # 压缩js
 neat_js:
   enable: true
@@ -132,10 +132,10 @@ neat_js:
   output:
   compress:
   exclude:
-    - '**/*.min.js'
-    - '**/jquery.fancybox.pack.js'
-    - '**/index.js'
-    - '**/gulpfile.js'
+#    - '**/*.min.js'
+#    - '**/jquery.fancybox.pack.js'
+#    - '**/index.js'
+#    - '**/gulpfile.js'
 #    - '**/clicklove.js'
 
 # 压缩博文配置结束
